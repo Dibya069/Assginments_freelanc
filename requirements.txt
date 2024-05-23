@@ -1,0 +1,33 @@
+
+python-dotenv
+tqdm
+
+#for RAG
+groq
+pydub
+PyAudio
+
+## AI Chat bot
+pyaudio
+langchain-groq
+langchain
+deepgram-sdk==3.2.7
+
+#Rag
+openai
+llama-index
+pandas 
+numpy
+pypdf
+llama-index-embeddings-openai
+langchain-google-vertexai
+langchain-community
+streamlit
+
+#gemini
+google-generativeai
+
+#Twitter Space Bot
+tweepy
+flask
+schedule
